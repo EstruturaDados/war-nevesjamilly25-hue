@@ -1,3 +1,10 @@
+// ------------------------------------------------------------
+// Aluna: Jamilly das Neves Costa
+// Desafio: Estrutura de Dados - Jogo WAR
+// Objetivo: Cadastrar e exibir dados de 5 territórios usando struct
+// Data: 10/11/2025
+// ------------------------------------------------------------
+
 #include <stdio.h>
 #include <string.h>
 
